@@ -1,12 +1,12 @@
 # nodepills.js/basicHttpServer
 
 ## Description
-Simple Http Server copied from the Node.js documentation at https://nodejs.org/dist/latest-v8.x/docs/api.
+Simple ***Http Server*** copied from the official [Node.js documentation](https://nodejs.org/dist/latest-v8.x/docs/api).
 
 
 ## Prerequisites:
-1. Node.js installed on the PC: https://nodejs.org
-2. Download the scripts collections from GitHub: https://github.com/ioclaudio/nodepills.js
+1. ***Node.js*** installed on the PC. You can download it [here]( https://nodejs.org).
+2. Download the scripts collections from GitHub. You can download it [here](https://github.com/ioclaudio/nodepills.js).
 
 ## How to run the script?
 1. Enter in the directory basicHttpServer:
@@ -23,6 +23,6 @@ Simple Http Server copied from the Node.js documentation at https://nodejs.org/d
     ```
 
 
-The message "Hello World :-) " should be visible in the browser.
+The message ***"Hello World :-) "*** should be visible in the browser.
 
 That's it.
