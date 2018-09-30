@@ -1,12 +1,12 @@
 # nodepills.js/basicRestApi
 
-Simple ***Http REST Api*** done as homework 1 of the course [The Node.js Master Class](https://pirple.thinkific.com/courses/the-nodejs-master-class).
+Simple ***Http REST Api*** done as _"Homework Assignment #1"_ of the course [The Node.js Master Class](https://pirple.thinkific.com/courses/the-nodejs-master-class).
 
 
 ## Description
 ***Homework Assignment #1***
 
-The server listens on the port ***3000*** and when someone posts anything to the route ***/hello***, it returns a welcome message, in JSON format.
+_The server listens on the port ***3000*** and when someone posts anything to the route ***/hello***, it returns a welcome message, in JSON format._
 
 ## Release notes
 Minor changes to the code seen during the course.
