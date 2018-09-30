@@ -8,4 +8,4 @@ These are the examples you can find in this collection:
 
 
 
-Many of these scripts are inspired by the famous ***Node.js*** course on [Pirple](https://pirple.thinkific.com) others from the [documentation](https://nodejs.org/it/docs/) of **Node.js**.
+Many of these scripts are inspired by the famous ***Node.js*** course on [Pirple](https://pirple.thinkific.com) others from the official [documentation](https://nodejs.org/it/docs/) of **Node.js**.

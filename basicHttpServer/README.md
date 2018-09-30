@@ -6,7 +6,7 @@ Simple ***Http Server*** copied from the official [Node.js documentation](https:
 
 ## Prerequisites:
 1. ***Node.js*** installed on the PC. You can download it [here]( https://nodejs.org).
-2. Download the scripts collections from GitHub. You can download it [here](https://github.com/ioclaudio/nodepills.js).
+2. Download the ***nodepills.js*** scripts collections from GitHub. You can find it [here](https://github.com/ioclaudio/nodepills.js).
 
 ## How to run the script?
 1. Enter in the directory basicHttpServer:
